@@ -26,8 +26,10 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 **20 Juni 2021**
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
-* Belajar konsep OOP untuk mempermudah pengembangan sebuah program.
-* Belajar class-class yangs sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
-* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
-* Mengerjakan ujian akhir untuk menilai kemahiran diri.
-* 
+  * Belajar konsep OOP untuk mempermudah pengembangan sebuah program.
+  
+  * Belajar class-class yangs sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
+  
+  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
+  
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
